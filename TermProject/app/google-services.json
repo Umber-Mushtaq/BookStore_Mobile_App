@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "746509007838",
+    "firebase_url": "https://database-d0dcc-default-rtdb.firebaseio.com",
+    "project_id": "database-d0dcc",
+    "storage_bucket": "database-d0dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746509007838:android:22dac0272e1cd9dd233b4f",
+        "android_client_info": {
+          "package_name": "com.example.databasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkXYRjPc2lFIg0_O2LT5dHmoaIFxl0Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746509007838:android:09080c6455ddbbf9233b4f",
+        "android_client_info": {
+          "package_name": "com.example.termproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSkXYRjPc2lFIg0_O2LT5dHmoaIFxl0Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

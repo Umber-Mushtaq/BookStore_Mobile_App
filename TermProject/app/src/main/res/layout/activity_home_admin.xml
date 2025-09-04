@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    android:padding="16dp"
+    tools:context=".HomeAdminActivity">
+
+    <Button
+        android:id="@+id/addButton"
+        android:layout_width="349dp"
+        android:layout_height="81dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="160dp"
+        android:backgroundTint="@color/lavender"
+        android:text="Add Book"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/editButton"
+        android:layout_width="344dp"
+        android:layout_height="81dp"
+        android:layout_below="@id/addButton"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="20dp"
+        android:backgroundTint="@color/lavender"
+        android:text="Edit Book"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/removeButton"
+        android:layout_width="346dp"
+        android:layout_height="83dp"
+        android:layout_below="@id/editButton"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="#E3AB02"
+        android:text="Remove Book"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
